@@ -1,0 +1,14 @@
+GAS LISTING prog_ikey.s 			page 1
+
+
+DEFINED SYMBOLS
+         prog_ikey.s:1      *ABS*:0000000000000001 inkey
+         prog_ikey.s:2      *ABS*:0000000000000003 putChar
+         prog_ikey.s:6      .text:0000000000000000 main
+         prog_ikey.s:8      .text:0000000000000000 do
+         prog_ikey.s:13     .text:000000000000000c if
+         prog_ikey.s:16     .text:000000000000001c else
+         prog_ikey.s:18     .text:0000000000000020 endif
+         prog_ikey.s:23     .text:0000000000000028 while
+
+NO UNDEFINED SYMBOLS

@@ -1,0 +1,15 @@
+GAS LISTING timer.s 			page 1
+
+
+DEFINED SYMBOLS
+             timer.s:2      *ABS*:000000000000000b READ_CORE_TIMER
+             timer.s:3      *ABS*:000000000000000c RESET_CORE_TIMER
+             timer.s:4      *ABS*:0000000000000003 PUT_CHAR
+             timer.s:5      *ABS*:0000000000000006 PRINT_INT
+             timer.s:9      .text:0000000000000000 main
+             timer.s:13     .text:0000000000000004 while
+             timer.s:16     .text:000000000000000c whiletimer
+             timer.s:25     .text:0000000000000034 endwhiletimer
+             timer.s:42     .text:0000000000000068 endwhile
+
+NO UNDEFINED SYMBOLS

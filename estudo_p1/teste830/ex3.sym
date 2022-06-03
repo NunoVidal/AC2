@@ -1,0 +1,14 @@
+GAS LISTING ex3.s 			page 1
+
+
+DEFINED SYMBOLS
+               ex3.s:2      *ABS*:0000000000006100 TRISE
+               ex3.s:3      *ABS*:000000000000bf88 BASE
+               ex3.s:4      *ABS*:0000000000006120 LATE
+               ex3.s:8      .text:0000000000000000 main
+               ex3.s:22     .text:0000000000000024 while
+               ex3.s:45     .text:0000000000000064 delay
+               ex3.s:49     .text:000000000000006c whiledelay
+               ex3.s:56     .text:0000000000000094 endwhiledelay
+
+NO UNDEFINED SYMBOLS

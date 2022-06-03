@@ -1,0 +1,24 @@
+GAS LISTING counters.s 			page 1
+
+
+DEFINED SYMBOLS
+          counters.s:2      *ABS*:000000000000000c resetCoreTimer
+          counters.s:3      *ABS*:000000000000000b readCoreTimer
+          counters.s:4      *ABS*:0000000000006100 TRISE
+          counters.s:5      *ABS*:0000000000006040 TRISB
+          counters.s:6      *ABS*:0000000000006120 LATE
+          counters.s:7      *ABS*:0000000000006050 PORTB
+          counters.s:8      *ABS*:000000000000bf88 BASE_HIGH
+          counters.s:12     .text:0000000000000000 main
+          counters.s:25     .text:0000000000000024 while
+          counters.s:29     .text:000000000000002c if_op
+          counters.s:32     .text:0000000000000040 else_op
+          counters.s:34     .text:0000000000000044 end_op
+          counters.s:36     .text:0000000000000044 if
+          counters.s:41     .text:0000000000000060 else
+          counters.s:45     .text:0000000000000070 endif
+          counters.s:58     .text:0000000000000098 delay
+          counters.s:62     .text:00000000000000a0 while_delay
+          counters.s:68     .text:00000000000000cc end_while_delay
+
+NO UNDEFINED SYMBOLS

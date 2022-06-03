@@ -1,0 +1,25 @@
+GAS LISTING counter_ex4.s 			page 1
+
+
+DEFINED SYMBOLS
+       counter_ex4.s:3      *ABS*:000000000000bf88 SR_BASE_HIGH
+       counter_ex4.s:4      *ABS*:0000000000006100 TRISE
+       counter_ex4.s:5      *ABS*:0000000000006120 LATE
+       counter_ex4.s:6      *ABS*:0000000000006040 TRISB
+       counter_ex4.s:7      *ABS*:0000000000006050 PORTB
+       counter_ex4.s:8      *ABS*:000000000000000c RESET_CORE_TIMER
+       counter_ex4.s:9      *ABS*:000000000000000b READ_CORE_TIMER
+       counter_ex4.s:13     .text:0000000000000000 main
+       counter_ex4.s:25     .text:0000000000000020 while
+       counter_ex4.s:56     .text:0000000000000088 delay
+       counter_ex4.s:38     .text:0000000000000040 if
+       counter_ex4.s:44     .text:0000000000000068 else
+       counter_ex4.s:40     .text:0000000000000050 ifreset
+       counter_ex4.s:42     .text:0000000000000060 endifre
+       counter_ex4.s:49     .text:0000000000000078 endif
+       counter_ex4.s:46     .text:000000000000006c ifreset2
+       counter_ex4.s:48     .text:0000000000000078 endifre2
+       counter_ex4.s:59     .text:0000000000000090 whiledelay
+       counter_ex4.s:67     .text:00000000000000bc endwhiledelay
+
+NO UNDEFINED SYMBOLS

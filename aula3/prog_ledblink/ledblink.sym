@@ -1,0 +1,18 @@
+GAS LISTING ledblink.s 			page 1
+
+
+DEFINED SYMBOLS
+          ledblink.s:3      *ABS*:000000000000bf88 SR_BASE_HIGH
+          ledblink.s:4      *ABS*:0000000000006100 TRISE
+          ledblink.s:5      *ABS*:0000000000006120 LATE
+          ledblink.s:6      *ABS*:00000000000060c0 TRISD
+          ledblink.s:7      *ABS*:00000000000060e0 LATD
+          ledblink.s:8      *ABS*:000000000000000c RESET_CORE_TIMER
+          ledblink.s:9      *ABS*:000000000000000b READ_CORE_TIMER
+          ledblink.s:13     .text:0000000000000000 main
+          ledblink.s:25     .text:0000000000000020 while
+          ledblink.s:48     .text:0000000000000058 delay
+          ledblink.s:51     .text:0000000000000060 whiledelay
+          ledblink.s:59     .text:000000000000008c endwhiledelay
+
+NO UNDEFINED SYMBOLS

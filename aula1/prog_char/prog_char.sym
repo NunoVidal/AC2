@@ -1,0 +1,11 @@
+GAS LISTING prog_char.s 			page 1
+
+
+DEFINED SYMBOLS
+         prog_char.s:3      *ABS*:0000000000000002 getChar
+         prog_char.s:4      *ABS*:0000000000000003 putChar
+         prog_char.s:8      .text:0000000000000000 main
+         prog_char.s:10     .text:0000000000000000 do
+         prog_char.s:20     .text:000000000000001c while
+
+NO UNDEFINED SYMBOLS
